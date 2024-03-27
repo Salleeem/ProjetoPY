@@ -1,0 +1,241 @@
+# Primeira Compra
+
+
+- ID do Cliente: 101
+  Data da Compra: "2024-07-05"
+  Produto: Banheira Vitoriana
+  Quantidade: 1
+  Preco: 2200.00
+
+- ID do Cliente: 102
+  Data da Compra: "2024-04-10"
+  Produto: Banheira Vitoriana
+  Quantidade: 2
+  Preco: 1250.00
+
+- ID do Cliente: 103
+  Data da Compra: "2024-07-15"
+  Produto: Banheira de Canto
+  Quantidade: 3
+  Preco: 1800.00
+
+- ID do Cliente: 104
+  Data da Compra: "2024-09-02"
+  Produto: Banheira Retangular
+  Quantidade: 2
+  Preco: 2300.00
+
+- ID do Cliente: 105
+  Data da Compra: "2024-01-10"
+  Produto: Banheira Retangular
+  Quantidade: 1
+  Preco: 4500.00
+
+- ID do Cliente: 106
+  Data da Compra: "2024-12-20"
+  Produto: Banheira Simples
+  Quantidade: 3
+  Preco: 1200.00
+
+- ID do Cliente: 107
+  Data da Compra: "2024-02-05"
+  Produto: Banheira Vitoriana
+  Quantidade: 2
+  Preco: 2400.00
+
+- ID do Cliente: 108
+  Data da Compra: "2024-06-12"
+  Produto: Banheira de Canto
+  Quantidade: 1
+  Preco: 4300.00
+
+- ID do Cliente: 109
+  Data da Compra: "2024-02-25"
+  Produto: Banheira Simples
+  Quantidade: 1
+  Preco: 1300.00
+
+- ID do Cliente: 110
+  Data da Compra: "2024-05-03"
+  Produto: Banheira de Canto
+  Quantidade: 2
+  Preco: 2600.00
+
+- ID do Cliente: 111
+  Data da Compra: "2024-08-08"
+  Produto: Banheira de Canto
+  Quantidade: 1
+  Preco: 3700.00
+
+- ID do Cliente: 112
+  Data da Compra: "2024-11-15"
+  Produto: Banheira Vitoriana
+  Quantidade: 2
+  Preco: 2800.00
+
+- ID do Cliente: 113
+  Data da Compra: "2024-10-02"
+  Produto: Banheira Simples
+  Quantidade: 3
+  Preco: 1400.00
+
+- ID do Cliente: 114
+  Data da Compra: "2024-12-10"
+  Produto: Banheira de Luxo
+  Quantidade: 1
+  Preco: 4900.00
+
+- ID do Cliente: 115
+  Data da Compra: "2024-05-20"
+  Produto: Hidromassagem
+  Quantidade: 2
+  Preco: 2700.00
+
+- ID do Cliente: 116
+  Data da Compra: "2024-06-12"
+  Produto: Banheira de Canto
+  Quantidade: 3
+  Preco: 1500.00
+
+- ID do Cliente: 117
+  Data da Compra: "2024-11-25"
+  Produto: Banheira Simples
+  Quantidade: 1
+  Preco: 1100.00
+
+- ID do Cliente: 118
+  Data da Compra: "2024-08-03"
+  Produto: Banheira Retangular
+  Quantidade: 1
+  Preco: 3200.00
+
+- ID do Cliente: 119
+  Data da Compra: "2024-07-08"
+  Produto: Banheira Vitoriana
+  Quantidade: 2
+  Preco: 3200.00
+
+- ID do Cliente: 120
+  Data da Compra: "2024-03-15"
+  Produto: Banheira Simples
+  Quantidade: 1
+  Preco: 1250.00
+
+
+- ID do Cliente: 121
+  Data da Compra: "2024-07-15"
+  Produto: Banheira Retangular
+  Quantidade: 1
+  Preco: 3900.00
+
+- ID do Cliente: 122
+  Data da Compra: "2024-08-02"
+  Produto: Hidromassagem
+  Quantidade: 1
+  Preco: 2500.00
+
+- ID do Cliente: 123
+  Data da Compra: "2024-08-10"
+  Produto: Banheira Simples
+  Quantidade: 3
+  Preco: 1350.00
+
+- ID do Cliente: 124
+  Data da Compra: "2024-08-20"
+  Produto: Banheira Retangular
+  Quantidade: 1
+  Preco: 4000.00
+
+- ID do Cliente: 125
+  Data da Compra: "2024-09-05"
+  Produto: Hidromassagem
+  Quantidade: 2
+  Preco: 2600.00
+
+- ID do Cliente: 126
+  Data da Compra: "2024-09-12"
+  Produto: Banheira Retangular
+  Quantidade: 2
+  Preco: 1400.00
+
+- ID do Cliente: 127
+  Data da Compra: "2024-09-25"
+  Produto: Banheira de Canto
+  Quantidade: 1
+  Preco: 4100.00
+
+- ID do Cliente: 128
+  Data da Compra: "2024-10-03"
+  Produto: Banheira Vitoriana
+  Quantidade: 1
+  Preco: 2700.00
+
+- ID do Cliente: 129
+  Data da Compra: "2024-10-08"
+  Produto: Banheira Simples
+  Quantidade: 3
+  Preco: 1450.00
+
+- ID do Cliente: 130
+  Data da Compra: "2024-11-08"
+  Produto: Banheira Simples
+  Quantidade: 3
+  Preco: 1450.00
+
+
+# Segunda vez do cliente
+
+
+
+
+- ID do Cliente: 101
+  Data da Compra: "2024-06-05"
+  Produto: Banheira Simples
+  Quantidade: 2 
+  Preco: 2000.00
+
+- ID do Cliente: 102
+  Data da Compra: "2024-03-10"
+  Produto: Hidromassagem
+  Quantidade: 1
+  Preco: 1200.00
+
+- ID do Cliente: 106
+  Data da Compra: "2024-12-20"
+  Produto: Banheira Vitoriana
+  Quantidade: 3
+  Preco: 1200.00
+
+
+- ID do Cliente: 108
+  Data da Compra: "2024-10-12"
+  Produto: Hidromassagem
+  Quantidade: 1
+  Preco: 4300.00
+
+- ID do Cliente: 112
+  Data da Compra: "2024-09-15"
+  Produto: Banheira Vitoriana
+  Quantidade: 2
+  Preco: 2800.00
+
+- ID do Cliente: 129
+  Data da Compra: "2024-10-08"
+  Produto: Banheira de Canto
+  Quantidade: 3
+  Preco: 1350.00
+
+- ID do Cliente: 130
+  Data da Compra: "2024-11-08"
+  Produto: Banheira Vitoriana
+  Quantidade: 3
+  Preco: 1450.00
+
+
+# Terceira vez do Cliente
+
+- ID do Cliente: 101
+  Data da Compra: "2024-03-05"
+  Produto: Banheira Simples
+  Quantidade: 9
+  Preco: 2000.00

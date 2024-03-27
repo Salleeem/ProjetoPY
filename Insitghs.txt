@@ -1,0 +1,20 @@
+
+# Conclusões e Recomendações
+print("Conclusões e Recomendações:")
+# Insights relevantes
+print("- Os produtos mais vendidos são as Banheiras Simples, seguidas pelas Banheiras de Hidromassagem e Luxo.")
+print("- A distribuição de receita é liderada pelas Banheiras de Luxo, seguidas pelas de Hidromassagem e Simples.")
+print("- Existe uma tendência de aumento nas vendas ao longo do tempo.")
+print("- A maioria dos clientes gastou entre 2000 e 4000 unidades monetárias.")
+print("- Os clientes mais fiéis tendem a gastar mais frequentemente.")
+print("- Os preços médios das Banheiras Simples, de Hidromassagem e de Luxo são 1200.00, 2000.00 e 3500.00, respectivamente.")
+print()
+
+# Sugestões de ações
+print("Sugestões de Ações:")
+print("- Investir em estratégias de marketing para promover produtos menos vendidos.")
+print("- Expandir a linha de produtos de acordo com a demanda e tendências do mercado.")
+print("- Implementar programas de fidelidade para incentivar compras frequentes.")
+print("- Realizar análises mais detalhadas sobre sazonalidades para ajustar estratégias de estoque e vendas.")
+print("- Explorar oportunidades de otimização de preços para melhorar a competitividade.")
+print()
